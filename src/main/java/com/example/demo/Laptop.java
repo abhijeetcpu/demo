@@ -6,9 +6,7 @@ import org.springframework.stereotype.Component;
 public class Laptop {
 	private int lid;
 	private String brand;
-	
-	
-	
+		
 	@Override
 	public String toString() {
 		return "Laptop [lid=" + lid + ", brand=" + brand + "]";
