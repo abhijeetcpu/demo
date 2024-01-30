@@ -12,6 +12,10 @@ public class Laptop {
 		return "Laptop [lid=" + lid + ", brand=" + brand + "]";
 	}
 	
+	
+	
+	
+	
 	public void compile() {
 		System.out.println("compiling");
 	}
