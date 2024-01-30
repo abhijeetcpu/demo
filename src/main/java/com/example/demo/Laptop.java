@@ -8,6 +8,11 @@ public class Laptop {
 	private String brand;
 	
 	
+	
+	
+	
+	
+	
 	@Override
 	public String toString() {
 		return "Laptop [lid=" + lid + ", brand=" + brand + "]";
