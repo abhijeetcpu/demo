@@ -9,10 +9,6 @@ public class Laptop {
 	
 	
 	
-	
-	
-	
-	
 	@Override
 	public String toString() {
 		return "Laptop [lid=" + lid + ", brand=" + brand + "]";
